@@ -9,7 +9,7 @@ Image is based on the [gliderlabs/alpine](https://registry.hub.docker.com/u/glid
 [![Latest](https://badge.imagelayers.io/k0st/snort.svg)](https://imagelayers.io/?images=k0st/snort:latest 'latest')
 
 
-## Docker image usage
+## Docker image usage 2
 
 ```
 docker run k0st/snort [Snort options]
